@@ -86,26 +86,11 @@ Single-page interactive dashboard with:
 ## 🗂️ Repository Structure
 
 ```
-📁 Olist-Customer-Retention-Analysis/
-│
-├── 📁 SQL/
-│   ├── P1_Repeat_Rate.sql
-│   ├── P2_Average_Delivery_Time.sql
-│   ├── P3_Delivery_Speed_vs_Review.sql
-│   ├── P4_State_wise_Delivery.sql
-│   ├── Query_A_Category_Bad_Reviews.sql
-│   ├── Query_B_Price_vs_Review.sql
-│   ├── Query_C_Top_Categories.sql
-│   ├── Query_D_Revenue_Analysis.sql
-│   └── Query_E_Cohort_Analysis.sql
-│
-├── 📁 Dashboard/
-│   └── Olist_Customer_Retention_Analysis.pbix
-│
-├── 📁 Document/
-│   └── Olist_BA_Project_Complete.docx
-│
-└── README.md
+📁 Dashboard
+📁 Data csv
+📁 Document
+📁 olist query 
+📄 README.md
 ```
 
 ---
